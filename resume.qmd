@@ -1,86 +1,79 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kimberly Juarez's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kimberly Juarez
+Student.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jua22004@byui.edu">My email</a>
+| <a href="https://kimy2905.github.io/Portafolio-Kimberly-Juarez/">My personal portafolio</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Majoring in Data Science 
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Data Analytics with a minor in Software Engineering
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Data Mining and Knowledge Discovery
+- Big Data Analytics
+- Machine Learning and Predictive Analytics
+- Data Visualization
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012-2021`
+__Colegio Santa Teresita__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2022 - Now`
+__Brigham Young University-Idaho__
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2024`
+President, *Society of Women Engineers*, Rexburg, Idaho
 
-Associate, *French Academy of Science*, Paris, France
+President, *BYUI-Hack*, Rexburg, Idaho
 
+## Languages
+`Spanish`
+__Fluent__
 
+`English`
+__Fluent__
 
-## Publications
+### Porjects
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`October 2024`
+Bussiness Website 
 
-### Journals
+`January 2025`
+ASL translator
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Linkedin
+Let's chat, (www.linkedin.com/in/kimberly-juarez-palomino) 
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+` April 2024`
+___, Support Center
 
-- Warden
-- Minted coins
+- Customer Service
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`September 2024 - Present`
+__Teacher Assistant__, Brigham Young University-Idaho
+
+- HTML/CSS
 
 
 
